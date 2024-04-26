@@ -7,6 +7,7 @@ function Home() {
       <p>
         This repository consists of two exercises:
       </p>
+
       <ol>
         <li>
           <Link href="/exercises/01-screensaver">
